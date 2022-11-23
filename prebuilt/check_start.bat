@@ -1,0 +1,1 @@
+tasklist|find /i "office-convert.exe" && echo started || start "" "C:\Users\Administrator\OfficeConvert\office-convert.exe"
