@@ -52,7 +52,7 @@
 ```conf
 server {
         listen       80;
-        server_name  convert-tools.xxx.net;
+        server_name  convert-tools.xxx.com;
 
         #charset koi8-r;
 
